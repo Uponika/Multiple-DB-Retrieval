@@ -1,0 +1,7 @@
+Summary: Machine Learning Engineer with 5 years of experience developing ML models for natural language processing and computer vision. Skilled in TensorFlow, PyTorch, Python, and deploying scalable ML pipelines. Experience with data preprocessing, feature engineering, and model evaluation techniques.
+
+Work Experience:
+
+ML Engineer at AI Innovations (2018–Present): Built and deployed NLP models for customer support automation and developed image recognition systems for quality control.
+
+Data Scientist Intern at VisionTech (2016–2018): Supported data preprocessing and feature extraction for computer vision projects.

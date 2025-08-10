@@ -1,0 +1,7 @@
+Summary: Software Engineer with 5 years of experience specializing in backend development using Python and Azure cloud services. Proficient in building scalable APIs, microservices, and automating workflows. Experienced in agile teams and CI/CD pipelines. Skilled in SQL, Docker, and RESTful API design.
+
+Work Experience:
+
+Backend Developer at TechCorp (2019–Present): Developed RESTful APIs in Python using Flask and FastAPI, deployed microservices on Azure Kubernetes Service, and improved system scalability by 30%.
+
+Software Engineer Intern at DataSoft (2017–2019): Automated data pipelines and developed scripts for ETL processes, reducing data processing time by 25%.

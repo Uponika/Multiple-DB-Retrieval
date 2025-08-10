@@ -1,0 +1,7 @@
+Summary: Cloud Solutions Architect with 7 years of experience designing and deploying cloud infrastructure solutions on Azure and AWS. Expertise in security, networking, and cost optimization. Certified Azure Solutions Architect Expert. Skilled in infrastructure-as-code, automation, and hybrid cloud deployments.
+
+Work Experience:
+
+Cloud Architect at NextGen Cloud (2017–Present): Designed scalable cloud infrastructure for enterprise clients, implemented security best practices, and led migration projects to Azure.
+
+Systems Engineer at TechServe (2013–2017): Managed on-premises servers and assisted with cloud adoption strategies.
