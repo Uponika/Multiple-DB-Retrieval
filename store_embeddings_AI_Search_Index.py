@@ -9,7 +9,6 @@ load_dotenv()
 
 # OpenAI setup
 openai.api_key = os.getenv("OPENAI_API_KEY")
-
 # Azure AI Search setup
 search_endpoint = os.getenv("AZURE_SEARCH_ENDPOINT")
 search_key = os.getenv("AZURE_SEARCH_API_KEY")
