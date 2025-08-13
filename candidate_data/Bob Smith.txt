@@ -1,7 +1,0 @@
-Summary: Junior Developer recently graduated with a degree in Computer Science. Skilled in Java, JavaScript, and basic cloud deployments. Completed several internships focusing on web development, database management, and frontend technologies. Eager to learn and grow in a collaborative environment.
-
-Work Experience:
-
-Software Development Intern at WebWorks (2023): Assisted in building frontend components using React and helped optimize SQL queries for performance.
-
-IT Support Assistant at University Tech Center (2021–2022): Provided technical support and maintained the university’s internal software tools.

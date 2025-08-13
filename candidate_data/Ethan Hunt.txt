@@ -1,7 +1,0 @@
-Summary: DevOps Engineer specializing in cloud infrastructure automation and container orchestration. Experienced with Kubernetes, Docker, Terraform, and Azure pipelines. Passionate about improving deployment reliability, scalability, and CI/CD processes. Skilled in Linux administration and scripting.
-
-Work Experience:
-
-DevOps Engineer at CloudOps Inc. (2019–Present): Automated infrastructure deployments using Terraform and Ansible, managed Kubernetes clusters, and reduced deployment failures by 40%.
-
-Systems Administrator at NetTech (2016–2019): Maintained Linux servers and monitored network performance.

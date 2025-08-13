@@ -1,0 +1,13 @@
+dotenv
+openai>=1.30.0
+langchain
+langchain-openai
+azure-search-documents>=11.4.0b6
+azure-core
+pyodbc
+pandas
+streamlit
+beautifulsoup4
+requests
+pathlib
+uuid

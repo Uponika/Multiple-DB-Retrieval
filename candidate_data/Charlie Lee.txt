@@ -1,7 +1,0 @@
-Summary: Data Scientist with 4 years of experience analyzing large datasets and building predictive models. Expertise in Python, R, machine learning algorithms, and data visualization tools. Worked on projects involving customer segmentation, churn prediction, and A/B testing. Strong statistical and analytical skills.
-
-Work Experience:
-
-Data Scientist at AnalyticsPro (2020–Present): Designed and deployed machine learning models for customer retention, resulting in a 15% increase in client engagement.
-
-Data Analyst at MarketInsights (2018–2020): Created dashboards and reports for marketing campaigns and performed statistical analysis on sales data.

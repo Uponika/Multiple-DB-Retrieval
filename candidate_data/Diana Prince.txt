@@ -1,7 +1,0 @@
-Summary: Senior Software Engineer and team lead with 8 years of experience in full-stack development. Skilled in C#, .NET, React, and Azure DevOps. Strong background in system architecture, cloud migration, and mentoring junior developers. Experienced in agile methodologies and project management.
-
-Work Experience:
-
-Team Lead Software Engineer at SoftSolutions (2018–Present): Led a team of 6 engineers to deliver enterprise web applications on Azure, improved deployment pipelines, and mentored junior staff.
-
-Software Developer at CodeWorks (2015–2018): Developed features for customer management systems and integrated third-party APIs.

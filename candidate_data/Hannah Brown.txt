@@ -1,7 +1,0 @@
-Summary: Front-end Developer focused on creating responsive, user-friendly interfaces. Skilled in HTML, CSS, JavaScript, React, and UI/UX design principles. Worked closely with design teams to translate wireframes into functional code. Passionate about web accessibility and performance optimization.
-
-Work Experience:
-
-Front-end Developer at CreativeApps (2020–Present): Developed web applications with React, improved site accessibility, and optimized loading speeds.
-
-UI Developer Intern at DesignWorks (2018–2020): Assisted with building reusable UI components and collaborated with UX designers.

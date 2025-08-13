@@ -1,7 +1,0 @@
-Summary: QA Engineer with 3 years of experience in manual and automated testing. Skilled in Selenium, Postman, test case design, and bug tracking tools like Jira. Familiar with Agile methodologies and continuous testing practices. Committed to improving product quality and user experience.
-
-Work Experience:
-
-QA Engineer at SoftTesters (2021–Present): Developed automated test scripts, coordinated testing sprints, and collaborated with developers to fix critical bugs.
-
-QA Analyst Intern at TechCheck (2019–2021): Assisted with manual testing and documented test cases.

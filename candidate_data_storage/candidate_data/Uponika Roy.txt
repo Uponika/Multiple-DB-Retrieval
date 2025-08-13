@@ -1,0 +1,19 @@
+Education: M.Sc. in Data Science, University of Toronto (2020)
+
+Skills: Python, R, Scikit-learn, GCP AI Platform, NLP, Time Series Forecasting, MLflow, Airflow, Docker
+
+Projects:
+
+AI-powered Healthcare Chatbot – Built with GPT-4 and deployed on GCP for patient triage.
+
+Financial Time Series Prediction – Developed LSTM and Prophet models for stock price forecasting.
+
+Work Experience:
+
+AI Engineer @ Shopify (2021–Present) – Led ML projects for fraud detection and recommendation engines.
+
+Data Analyst @ RBC (2018–2020) – Designed and deployed data pipelines for retail banking analytics.
+
+GitHub: https://github.com/Uponika
+
+LinkedIn: https://www.linkedin.com/in/uponikabarmanroy

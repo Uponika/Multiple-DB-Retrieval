@@ -1,0 +1,20 @@
+Education: M.S. in Artificial Intelligence, Stanford University (2019)
+
+Skills: Python, PyTorch, TensorFlow, NLP, Computer Vision, Azure AI, MLOps, Docker, Kubernetes
+
+Projects:
+
+AI-powered Document Summarizer – Built a transformer-based summarization model deployed with FastAPI and Azure Functions.
+
+Smart Traffic Monitoring System – Used YOLOv8 for real-time vehicle detection and tracking on edge devices.
+
+Work Experience:
+
+AI Engineer @ Microsoft (2020–Present) – Developed multimodal AI solutions for enterprise clients, integrated RAG pipelines, and optimized ML inference speeds by 40%.
+
+ML Research Intern @ NVIDIA (2019) – Contributed to GAN-based image super-resolution models.
+
+GitHub: https://github.com/ssumitk14
+
+LinkedIn: https://www.linkedin.com/in/sumitk14
+
